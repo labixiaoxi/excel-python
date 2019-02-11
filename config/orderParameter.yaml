@@ -1,0 +1,19 @@
+caseOrders :
+    uri : http://59.110.171.83:9095/jhj-hyb-consumer-web/
+    companyCode : 100012
+    insCompany : 100012
+
+
+dingding :
+    token :
+
+holder :
+    holderBirthday : 1990-03-07
+    holderEmail : 1009889358@qq.com
+    holderMobile : 17748776346
+    holderName : 刘蕾
+    holderPaperCat : 1
+    holderPaperNo : 110101199003072893
+    holderSex : M
+
+
